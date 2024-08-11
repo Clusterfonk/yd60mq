@@ -1,0 +1,6 @@
+//  Config
+
+#define LEADER_PER_KEY_TIMING
+#define LEADER_TIMEOUT 220
+
+#define BOTH_SHIFTS_TURNS_ON_CAPS_WORD
