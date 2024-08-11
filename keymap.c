@@ -53,7 +53,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     ),
 
     [_SYM] = LAYOUT_60_iso(
-        KC_NO,      KC_NO,      KC_NO,      KC_NO,      KC_NO,      KC_NO,      KC_NO,  KC_NO,      KC_NO,    KC_NO,        KC_NO,      KC_NO,      KC_NO,      ,
+        KC_NO,      KC_NO,      KC_NO,      KC_NO,      KC_NO,      KC_NO,      KC_NO,  KC_NO,      KC_NO,    KC_NO,        KC_NO,      KC_NO,      KC_NO,      KC_BSPC,
         KC_NO,      KC_QUOTE,   KC_LT,      KC_GT,      KC_DQT,     KC_DOT,     KC_NO,  KC_NO,      KC_AMPR,  KC_LBRC,      KC_RBRC,    KC_PERC,    KC_NO,
         KC_NO,      KC_CIRC,    KC_PMNS,    KC_PPLS,    KC_EQL,     KC_DLR,     KC_NO,  KC_NO,      KC_PIPE,  KC_LPRN,      KC_RPRN,    KC_AT,      KC_HASH,    KC_NO,
         KC_NO,      KC_GRV,     KC_NO,      KC_PSLS,    KC_PAST,    KC_BSLS,    UPDIR,  KC_NO,      KC_NO,    KC_TILD,      KC_LCBR,    KC_RCBR,    KC_NO,
