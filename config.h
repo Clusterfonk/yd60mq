@@ -1,6 +1,5 @@
 //  Config
 
-#define LEADER_PER_KEY_TIMING
-#define LEADER_TIMEOUT 220
+#define LEADER_TIMEOUT 1000 // same as neovim
 
 #define BOTH_SHIFTS_TURNS_ON_CAPS_WORD
